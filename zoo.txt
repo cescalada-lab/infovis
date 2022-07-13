@@ -1,0 +1,41 @@
+bar charts, 
+line charts
+scatter plots
+time-series
+scalable vector graphics (SVG)
+time-series
+Stacked Graphs
+stream graphs
+index chart
+small multiples
+Horizon graphs
+histograms
+box-and-whisker plots
+stem-and-leaf plot
+quantile-quantile plots
+Q-Q plotd
+brushing-and-linking
+Parallel coordinates 
+cartographic projection
+stroked lines
+flow map
+choropleth map
+Graduated Symbol Maps
+Dorling cartogram
+phylogenetic trees
+multi-scale inferences
+node-link diagram
+Reingold-Tilford algorithm
+dendrogram
+Adjacency Diagrams
+Enclosure Diagrams
+Voronoi and jigsaw treemaps
+circle-packing layouts
+Force-Directed Layout
+Arc Diagrams
+seriation
+adjacency matrix
+
+
+
+
